@@ -61,4 +61,19 @@ python3 main.py --command eval
 
 If you want to use pre-trained weight, download them from https://drive.google.com/drive/folders/1G9ElfOO_pKLTP_EWK8Unsmg-Pzzvpaoy?usp=sharing and put it in ckpt/ folder. 
 
+## Reference
+If you find our work/code useful, please consider citing our paper:
+
+```bib
+@article{zhang2021all,
+  title={All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines},
+  author={Zhang, Yuxuan and Dong, Bo and Heide, Felix},
+  journal={arXiv preprint arXiv:2112.09219},
+  year={2021}
+}
+```
+
+## Acknowledgements
+
+This code in parts is borrowed from [PyNET](https://github.com/aiff22/PyNET-PyTorch).
 
