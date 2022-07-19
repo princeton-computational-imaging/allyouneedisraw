@@ -1,6 +1,6 @@
 # All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines
 
-![architecture](img/defense.png)
+![architecture](img/defense.png | width=100)
 
 This is the code release for the paper [All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines](https://arxiv.org/pdf/2112.09219.pdf). 
 
@@ -14,10 +14,9 @@ To get started, first clone this repository in your local directory using
 https://github.com/princeton-computational-imaging/allyouneedisraw
 ```
 
-Then install necessary environment, specifically, this code is tested under following environment
+Then install the necessary environment, specifically, this code is tested under following environment
 
 - NVIDIA A100 GPU (40GB memory) Clusters 
-
 - Pytorch 1.9.0; Torchvision 0.10.0
 - CUDA11.1 toolkit
 
@@ -49,17 +48,14 @@ Run the following command to train the mapping network from RGB to Raw
 python3 main.py --command train_encoder --train_encoder True --mode train
 
 ```
-
 ## Evaluation
 
 Run to the following command to perform inference. Note you need to download Imagenet and specify the local path of data before running the script. If you have not trained the model by yourself, please download the pre-trained weight before running the script. 
-
 
 ```
 python3 main.py --command eval
 
 ```
-
 
 ## Pre-trained weight
 
