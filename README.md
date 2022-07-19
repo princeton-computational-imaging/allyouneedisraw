@@ -1,6 +1,6 @@
 # All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines
 
-<img src="[https://your-image-url.type](https://github.com/princeton-computational-imaging/allyouneedisraw/blob/main/img/defense.png)" width="100" height="100">
+<img src="https://github.com/princeton-computational-imaging/allyouneedisraw/blob/main/img/defense.png" width="300">
 
 This is the code release for the paper [All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines](https://arxiv.org/pdf/2112.09219.pdf). 
 
