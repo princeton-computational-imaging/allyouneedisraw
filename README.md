@@ -69,7 +69,6 @@ If you find our work/code useful, please consider citing our paper:
   author = {Zhang, Yuxuan and Dong, Bo and Heide, Felix},
   title = {All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines},
   booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
-  month = {October},
   year={2022}
 }
 ```
