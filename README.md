@@ -65,11 +65,11 @@ If you want to use pre-trained weight, download them from https://drive.google.c
 If you find our work/code useful, please consider citing our paper:
 
 ```bib
-@article{zhang2021all,
+@inproceedings{zhang2022raw,
   title={All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines},
   author={Zhang, Yuxuan and Dong, Bo and Heide, Felix},
-  journal={arXiv preprint arXiv:2112.09219},
-  year={2021}
+  booktitle={European conference on computer vision},
+  year={2022}
 }
 ```
 
